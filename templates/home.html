@@ -19,13 +19,7 @@
 </head>
 <body>
 <div class="nav-bar">
-    <i class="fa fa-bars" aria-hidden="true" onclick="toggleMenu()"></i>
-    <div id="nav-menu" class="nav-menu">
-        <a href="#">Option 1</a>
-        <a href="#">Option 2</a>
-        <a href="#">Option 3</a>
-        <a href="#">Option 4</a>
-    </div>
+    <a href="/up" class="menu"><i class="fa fa-bars" aria-hidden="true"></i></a>
     <img src="{{ url_for('static', filename='logo.png') }}" alt="logo" class="logo">
     <i class="fa-solid fa-bell"></i>
     <div class="nav-buttons">
@@ -50,6 +44,9 @@
     <i class="fa-regular fa-calendar"></i>
     <i class="fa-solid fa-filter"></i>
 </div>
+<div>
+    <hr class="line" style="accent-color: black">
+</div>
 <div id="calendar">
     <table class="calendar" id="calendarTable">
         <thead>
@@ -64,7 +61,6 @@
         </tr>
         </thead>
         <tbody id="calendarBody">
-        <!-- Calendar days will be added here -->
         </tbody>
     </table>
 </div>
