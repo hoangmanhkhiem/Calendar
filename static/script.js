@@ -53,6 +53,7 @@ function displayMonth(month, year) {
                             button = document.createElement("button");
                             button.innerHTML = "";
                             button.style.fontSize = "13px";
+                            button.style.backgroundColor = "white";
                             cell.appendChild(button);
                         }
                         button.onclick = function() {
