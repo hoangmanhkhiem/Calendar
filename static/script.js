@@ -66,6 +66,7 @@ function displayMonth(month, year) {
                             }
                             cell.appendChild(downcell);
                             button.onclick = function () {
+                                closeDetailWindow();
                                 show_data(item.ThoiGianBatDau, item.ThoiGianKetThuc, item.TenLop, item.Thu, item.Ca);
                             }
                         }
@@ -133,7 +134,7 @@ function show_data(startDate, endDate, TenLop, Thu, Ca) {
             for (let i = 0; i < data.length; i++) {
                 if (data[i].ThoiGianBatDau == startDate && data[i].ThoiGianKetThuc == endDate && data[i].TenLop == TenLop && data[i].Thu == Thu && data[i].Ca == Ca) {
                     var detailWindow = document.createElement("div");
-                    // thêm icon close
+                    detailWindow.className = "detailWindow";
                     var close = document.createElement("span");
                     close.innerHTML = "&times;";
                     close.style.position = "absolute";
@@ -154,6 +155,7 @@ function show_data(startDate, endDate, TenLop, Thu, Ca) {
                     detailWindow.style.top = "50%";
                     detailWindow.style.transform = "translate(-50%, -50%)";
                     detailWindow.style.display = "none";
+                    detailWindow.appendChild(close);
 
                     detailWindow.innerHTML = `
                     <h4>${data[i].TenLop}</h4>
@@ -167,14 +169,17 @@ function show_data(startDate, endDate, TenLop, Thu, Ca) {
                 `;
                     document.body.appendChild(detailWindow);
                     detailWindow.style.display = "block";
+                    break;
                 }
             }
         });
 }
 
-function hehe() {
-    console.log("Hello");
+function closeDetailWindow() {
+    var detailWindow = document.getElementsByClassName("detailWindow");
+    for(let i = 0; i < detailWindow.length; i++) {
+        detailWindow[i].style.display = "none";
+    }
 }
-
 
 displayMonth(currentMonth, currentYear);
