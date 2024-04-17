@@ -27,20 +27,19 @@
 .prev, .next {
     cursor: pointer;
     padding: 8px;
-/*    Phóng to button*/
     font-size: 20px;
     border: none;
     background-color: #ffffff;
 }
 
 .nav-bar {
-    background-color: #bbbbbb;
+    background-color: #90b632;
     overflow: hidden;
     padding: 4px;
     display: flex;
     align-items: center;
     justify-content: space-between;
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 1);
+    box-shadow: 0 4px 8px 0 rgb(185, 185, 185);
 }
 
 .logo {
@@ -67,33 +66,42 @@
     box-shadow: 1px 5px 1px 0 rgba(0, 0, 0, 0.5);
 }
 
-.calendar td button {
+.calendar td span {
     border: none;
     width: 100%;
     height: 20px;
     margin-bottom: 5px;
     border-radius: 5px;
+    flex-flow: row wrap;
+    justify-content: flex-start !important;
 }
 
-.calendar td button:nth-child(1) {
+.calendar td div .total{
+    margin: 5px;
+}
+
+.calendar td span:nth-child(1) {
     background-color: #3131c0;
 }
 
-.calendar td button:nth-child(2) {
+.calendar td span:nth-child(2) {
     background-color: #d25050;
 }
 
-.calendar td button:nth-child(3) {
+.calendar td span:nth-child(3) {
     background-color: #af3eaf;
 }
 
-.calendar td button:nth-child(4) {
+.calendar td span:nth-child(4) {
     background-color: #d9d950;
 }
 
-.calendar td button:nth-child(5) {
+.calendar td span:nth-child(5) {
     background-color: #cb9a40;
 }
+
+
+
 
 @media (max-width: 600px) {
     .calendar td button {
