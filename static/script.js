@@ -10,7 +10,7 @@ function displayMonth(month, year) {
 
     var calendarBody = document.getElementById("calendarBody");
     calendarBody.innerHTML = "";
-
+    let check = 0;
     var date = 1;
     fetch('/upload/data.json')
         .then(response => response.json())
@@ -73,12 +73,16 @@ function displayMonth(month, year) {
                         cell.style.width = "14.28%";
                         date++;
                     }
+                    if (month === today.getMonth() && year === today.getFullYear() && date === today.getDate() + 1 && check === 0) {
+                        cell.style.backgroundColor = "rgba(82,74,74,0.2)";
+                        let f = j;
+                        thu = document.getElementById(f.toString());
+                        thu.style.backgroundColor = "rgba(82,74,74,0.2)";
+                        check = 1;
+                    }
                 }
             }
         });
-    if (month === today.getMonth() && year === today.getFullYear()) {
-        highlightToday();
-    }
 }
 
 // Function to go to the previous month
@@ -109,20 +113,6 @@ function selectMonth() {
     } else {
         currentMonth = parseInt(month);
         displayMonth(currentMonth, currentYear);
-    }
-}
-
-function highlightToday() {
-    var rows = document.getElementById("calendarBody").rows;
-    var today = new Date();
-    var date = today.getDate();
-    for (var i = 0; i < rows.length; i++) {
-        var cells = rows[i].cells;
-        for (var j = 0; j < cells.length; j++) {
-            if (parseInt(cells[j].innerHTML) === date) {
-                cells[j].style.backgroundColor = "#c8f1e1";
-            }
-        }
     }
 }
 
@@ -177,7 +167,7 @@ function show_data(startDate, endDate, TenLop, Thu, Ca) {
 
 function closeDetailWindow() {
     var detailWindow = document.getElementsByClassName("detailWindow");
-    for(let i = 0; i < detailWindow.length; i++) {
+    for (let i = 0; i < detailWindow.length; i++) {
         detailWindow[i].style.display = "none";
     }
 }
