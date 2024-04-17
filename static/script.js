@@ -12,6 +12,7 @@ function displayMonth(month, year) {
     calendarBody.innerHTML = "";
     let check = 0;
     var date = 1;
+    let thu_today = -1;
     fetch('/upload/data.json')
         .then(response => response.json())
         .then(data => {
@@ -79,6 +80,12 @@ function displayMonth(month, year) {
                         thu = document.getElementById(f.toString());
                         thu.style.backgroundColor = "rgba(82,74,74,0.2)";
                         check = 1;
+                        thu_today = j;
+                    }
+                    if ((month !== today.getMonth()  || year !== today.getFullYear()) &&  (j === thu_today || thu_today === -1)) {
+                        let f = j;
+                        thu = document.getElementById(f.toString());
+                        thu.style.backgroundColor = "white";
                     }
                 }
             }
