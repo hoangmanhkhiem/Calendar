@@ -1,1 +1,191 @@
-[{"LopHocPhan": "QT07", "TenLop": "Cơ sở dữ liệu", "Thu": "5", "Ca": 3, "PhongHoc": "301-A8", "ThoiGianBatDau": "2024-01-01 00:00:00", "ThoiGianKetThuc": "2024-01-07 00:00:00"}, {"LopHocPhan": "QT07", "TenLop": "Cơ sở dữ liệu", "Thu": "5", "Ca": 3, "PhongHoc": "301-A8", "ThoiGianBatDau": "2024-01-08 00:00:00", "ThoiGianKetThuc": "2024-01-28 00:00:00"}, {"LopHocPhan": "QT07", "TenLop": "Cơ sở dữ liệu", "Thu": "7", "Ca": 3, "PhongHoc": "301-A8", "ThoiGianBatDau": "2024-01-08 00:00:00", "ThoiGianKetThuc": "2024-01-28 00:00:00"}, {"LopHocPhan": "QT07", "TenLop": "Cơ sở dữ liệu", "Thu": "5", "Ca": 3, "PhongHoc": "301-A8", "ThoiGianBatDau": "2024-02-19 00:00:00", "ThoiGianKetThuc": "2024-03-03 00:00:00"}, {"LopHocPhan": "QT07", "TenLop": "Cơ sở dữ liệu", "Thu": "7", "Ca": 3, "PhongHoc": "301-A8", "ThoiGianBatDau": "2024-02-19 00:00:00", "ThoiGianKetThuc": "2024-03-03 00:00:00"}, {"LopHocPhan": "QT07.BT1", "TenLop": "Cơ sở dữ liệu", "Thu": "5", "Ca": 3, "PhongHoc": "301-A8", "ThoiGianBatDau": "2024-03-04 00:00:00", "ThoiGianKetThuc": "2024-03-17 00:00:00"}, {"LopHocPhan": "QT07.BT1", "TenLop": "Cơ sở dữ liệu", "Thu": "7", "Ca": 3, "PhongHoc": "301-A8", "ThoiGianBatDau": "2024-03-04 00:00:00", "ThoiGianKetThuc": "2024-03-17 00:00:00"}, {"LopHocPhan": "QT07.BT1", "TenLop": "Cơ sở dữ liệu", "Thu": "5", "Ca": 3, "PhongHoc": "301-A8", "ThoiGianBatDau": "2024-03-18 00:00:00", "ThoiGianKetThuc": "2024-04-07 00:00:00"}, {"LopHocPhan": "QT07.BT1", "TenLop": "Cơ sở dữ liệu", "Thu": "4", "Ca": 3, "PhongHoc": "Phòng trực tuyến", "ThoiGianBatDau": "2024-04-08 00:00:00", "ThoiGianKetThuc": "2024-04-14 00:00:00"}, {"LopHocPhan": "QT07.BT1", "TenLop": "Cơ sở dữ liệu", "Thu": "5", "Ca": 3, "PhongHoc": "301-A8", "ThoiGianBatDau": "2024-04-08 00:00:00", "ThoiGianKetThuc": "2024-04-14 00:00:00"}, {"LopHocPhan": "QT07.BT1", "TenLop": "Cơ sở dữ liệu", "Thu": "5", "Ca": 3, "PhongHoc": "301-A8", "ThoiGianBatDau": "2024-04-22 00:00:00", "ThoiGianKetThuc": "2024-05-05 00:00:00"}, {"LopHocPhan": "QT06", "TenLop": "Công nghệ Java", "Thu": "3", "Ca": 4, "PhongHoc": "301-A8", "ThoiGianBatDau": "2024-01-01 00:00:00", "ThoiGianKetThuc": "2024-01-21 00:00:00"}, {"LopHocPhan": "QT06", "TenLop": "Công nghệ Java", "Thu": "3", "Ca": 4, "PhongHoc": "301-A8", "ThoiGianBatDau": "2024-01-22 00:00:00", "ThoiGianKetThuc": "2024-01-28 00:00:00"}, {"LopHocPhan": "QT06", "TenLop": "Công nghệ Java", "Thu": "6", "Ca": 4, "PhongHoc": "301-A8", "ThoiGianBatDau": "2024-01-22 00:00:00", "ThoiGianKetThuc": "2024-01-28 00:00:00"}, {"LopHocPhan": "QT06", "TenLop": "Công nghệ Java", "Thu": "3", "Ca": 4, "PhongHoc": "301-A8", "ThoiGianBatDau": "2024-02-19 00:00:00", "ThoiGianKetThuc": "2024-02-25 00:00:00"}, {"LopHocPhan": "QT06", "TenLop": "Công nghệ Java", "Thu": "6", "Ca": 4, "PhongHoc": "301-A8", "ThoiGianBatDau": "2024-02-19 00:00:00", "ThoiGianKetThuc": "2024-02-25 00:00:00"}, {"LopHocPhan": "QT06", "TenLop": "Công nghệ Java", "Thu": "3", "Ca": 4, "PhongHoc": "301-A8", "ThoiGianBatDau": "2024-02-26 00:00:00", "ThoiGianKetThuc": "2024-03-24 00:00:00"}, {"LopHocPhan": "QT06.BT1", "TenLop": "Công nghệ Java", "Thu": "3", "Ca": 4, "PhongHoc": "301-A8", "ThoiGianBatDau": "2024-03-25 00:00:00", "ThoiGianKetThuc": "2024-04-28 00:00:00"}, {"LopHocPhan": "QT06.BT1", "TenLop": "Công nghệ Java", "Thu": "7", "Ca": 4, "PhongHoc": "Phòng trực tuyến ", "ThoiGianBatDau": "2024-04-29 00:00:00", "ThoiGianKetThuc": "2024-05-05 00:00:00"}, {"LopHocPhan": "QT91", "TenLop": "Giáo dục thể chất F4", "Thu": "4", "Ca": 4, "PhongHoc": "Ngoài Trời 4 (Cầu Giấy)", "ThoiGianBatDau": "2024-01-01 00:00:00", "ThoiGianKetThuc": "2024-01-28 00:00:00"}, {"LopHocPhan": "QT91", "TenLop": "Giáo dục thể chất F4", "Thu": "4", "Ca": 4, "PhongHoc": "Ngoài Trời 5 (Cầu Giấy)", "ThoiGianBatDau": "2024-02-19 00:00:00", "ThoiGianKetThuc": "2024-04-07 00:00:00"}, {"LopHocPhan": "QT01", "TenLop": "Lập trình hướng đối tượng", "Thu": "5", "Ca": 4, "PhongHoc": "301-A8", "ThoiGianBatDau": "2024-01-01 00:00:00", "ThoiGianKetThuc": "2024-01-14 00:00:00"}, {"LopHocPhan": "QT01", "TenLop": "Lập trình hướng đối tượng", "Thu": "5", "Ca": 4, "PhongHoc": "301-A8", "ThoiGianBatDau": "2024-01-15 00:00:00", "ThoiGianKetThuc": "2024-01-21 00:00:00"}, {"LopHocPhan": "QT01", "TenLop": "Lập trình hướng đối tượng", "Thu": "7", "Ca": 4, "PhongHoc": "301-A8", "ThoiGianBatDau": "2024-01-15 00:00:00", "ThoiGianKetThuc": "2024-01-21 00:00:00"}, {"LopHocPhan": "QT01", "TenLop": "Lập trình hướng đối tượng", "Thu": "5", "Ca": 4, "PhongHoc": "301-A8", "ThoiGianBatDau": "2024-01-22 00:00:00", "ThoiGianKetThuc": "2024-01-28 00:00:00"}, {"LopHocPhan": "QT01", "TenLop": "Lập trình hướng đối tượng", "Thu": "5", "Ca": 4, "PhongHoc": "301-A8", "ThoiGianBatDau": "2024-02-19 00:00:00", "ThoiGianKetThuc": "2024-02-25 00:00:00"}, {"LopHocPhan": "QT01", "TenLop": "Lập trình hướng đối tượng", "Thu": "5", "Ca": 4, "PhongHoc": "301-A8", "ThoiGianBatDau": "2024-02-26 00:00:00", "ThoiGianKetThuc": "2024-03-03 00:00:00"}, {"LopHocPhan": "QT01", "TenLop": "Lập trình hướng đối tượng", "Thu": "7", "Ca": 4, "PhongHoc": "301-A8", "ThoiGianBatDau": "2024-02-26 00:00:00", "ThoiGianKetThuc": "2024-03-03 00:00:00"}, {"LopHocPhan": "QT01", "TenLop": "Lập trình hướng đối tượng", "Thu": "5", "Ca": 4, "PhongHoc": "301-A8", "ThoiGianBatDau": "2024-03-04 00:00:00", "ThoiGianKetThuc": "2024-03-24 00:00:00"}, {"LopHocPhan": "QT01.BT1", "TenLop": "Lập trình hướng đối tượng", "Thu": "5", "Ca": 4, "PhongHoc": "301-A8", "ThoiGianBatDau": "2024-03-25 00:00:00", "ThoiGianKetThuc": "2024-04-07 00:00:00"}, {"LopHocPhan": "QT01.BT1", "TenLop": "Lập trình hướng đối tượng", "Thu": "4", "Ca": 4, "PhongHoc": "Phòng trực tuyến", "ThoiGianBatDau": "2024-04-08 00:00:00", "ThoiGianKetThuc": "2024-04-14 00:00:00"}, {"LopHocPhan": "QT01.BT1", "TenLop": "Lập trình hướng đối tượng", "Thu": "5", "Ca": 4, "PhongHoc": "301-A8", "ThoiGianBatDau": "2024-04-08 00:00:00", "ThoiGianKetThuc": "2024-04-14 00:00:00"}, {"LopHocPhan": "QT01.BT1", "TenLop": "Lập trình hướng đối tượng", "Thu": "5", "Ca": 4, "PhongHoc": "301-A8", "ThoiGianBatDau": "2024-04-22 00:00:00", "ThoiGianKetThuc": "2024-05-05 00:00:00"}, {"LopHocPhan": "QT22", "TenLop": "Lịch sử Đảng Cộng sản Việt Nam", "Thu": "2", "Ca": 3, "PhongHoc": "301-A8", "ThoiGianBatDau": "2024-01-08 00:00:00", "ThoiGianKetThuc": "2024-01-28 00:00:00"}, {"LopHocPhan": "QT22", "TenLop": "Lịch sử Đảng Cộng sản Việt Nam", "Thu": "2", "Ca": 3, "PhongHoc": "301-A8", "ThoiGianBatDau": "2024-02-19 00:00:00", "ThoiGianKetThuc": "2024-03-10 00:00:00"}, {"LopHocPhan": "QT22", "TenLop": "Lịch sử Đảng Cộng sản Việt Nam", "Thu": "2", "Ca": 3, "PhongHoc": "301-A8", "ThoiGianBatDau": "2024-03-11 00:00:00", "ThoiGianKetThuc": "2024-03-17 00:00:00"}, {"LopHocPhan": "QT22", "TenLop": "Lịch sử Đảng Cộng sản Việt Nam", "Thu": "7", "Ca": 4, "PhongHoc": "Phòng trực tuyến ", "ThoiGianBatDau": "2024-03-11 00:00:00", "ThoiGianKetThuc": "2024-03-17 00:00:00"}, {"LopHocPhan": "QT22.TL1", "TenLop": "Lịch sử Đảng Cộng sản Việt Nam", "Thu": "2", "Ca": 3, "PhongHoc": "301-A8", "ThoiGianBatDau": "2024-03-18 00:00:00", "ThoiGianKetThuc": "2024-04-14 00:00:00"}, {"LopHocPhan": "QT22.TL1", "TenLop": "Lịch sử Đảng Cộng sản Việt Nam", "Thu": "2", "Ca": 3, "PhongHoc": "Phòng trực tuyến ", "ThoiGianBatDau": "2024-04-15 00:00:00", "ThoiGianKetThuc": "2024-05-05 00:00:00"}, {"LopHocPhan": "QT05", "TenLop": "Nguyên lý hệ điều hành", "Thu": "3", "Ca": 3, "PhongHoc": "301-A8", "ThoiGianBatDau": "2024-01-01 00:00:00", "ThoiGianKetThuc": "2024-01-07 00:00:00"}, {"LopHocPhan": "QT05", "TenLop": "Nguyên lý hệ điều hành", "Thu": "3", "Ca": 3, "PhongHoc": "301-A8", "ThoiGianBatDau": "2024-01-08 00:00:00", "ThoiGianKetThuc": "2024-01-28 00:00:00"}, {"LopHocPhan": "QT05", "TenLop": "Nguyên lý hệ điều hành", "Thu": "6", "Ca": 3, "PhongHoc": "301-A8", "ThoiGianBatDau": "2024-01-08 00:00:00", "ThoiGianKetThuc": "2024-01-28 00:00:00"}, {"LopHocPhan": "QT05", "TenLop": "Nguyên lý hệ điều hành", "Thu": "3", "Ca": 3, "PhongHoc": "301-A8", "ThoiGianBatDau": "2024-02-19 00:00:00", "ThoiGianKetThuc": "2024-03-03 00:00:00"}, {"LopHocPhan": "QT05", "TenLop": "Nguyên lý hệ điều hành", "Thu": "6", "Ca": 3, "PhongHoc": "301-A8", "ThoiGianBatDau": "2024-02-19 00:00:00", "ThoiGianKetThuc": "2024-03-03 00:00:00"}, {"LopHocPhan": "QT05.BT1", "TenLop": "Nguyên lý hệ điều hành", "Thu": "3", "Ca": 3, "PhongHoc": "301-A8", "ThoiGianBatDau": "2024-03-04 00:00:00", "ThoiGianKetThuc": "2024-03-17 00:00:00"}, {"LopHocPhan": "QT05.BT1", "TenLop": "Nguyên lý hệ điều hành", "Thu": "6", "Ca": 3, "PhongHoc": "301-A8", "ThoiGianBatDau": "2024-03-04 00:00:00", "ThoiGianKetThuc": "2024-03-17 00:00:00"}, {"LopHocPhan": "QT05.BT1", "TenLop": "Nguyên lý hệ điều hành", "Thu": "3", "Ca": 3, "PhongHoc": "301-A8", "ThoiGianBatDau": "2024-03-18 00:00:00", "ThoiGianKetThuc": "2024-04-28 00:00:00"}, {"LopHocPhan": "QT05.BT1", "TenLop": "Nguyên lý hệ điều hành", "Thu": "7", "Ca": 3, "PhongHoc": "Phòng trực tuyến ", "ThoiGianBatDau": "2024-04-29 00:00:00", "ThoiGianKetThuc": "2024-05-05 00:00:00"}, {"LopHocPhan": "QT06", "TenLop": "Phân tích thiết kế thuật toán", "Thu": "2", "Ca": 4, "PhongHoc": "301-A8", "ThoiGianBatDau": "2024-01-08 00:00:00", "ThoiGianKetThuc": "2024-01-28 00:00:00"}, {"LopHocPhan": "QT06", "TenLop": "Phân tích thiết kế thuật toán", "Thu": "2", "Ca": 4, "PhongHoc": "301-A8", "ThoiGianBatDau": "2024-02-19 00:00:00", "ThoiGianKetThuc": "2024-03-03 00:00:00"}, {"LopHocPhan": "QT06", "TenLop": "Phân tích thiết kế thuật toán", "Thu": "2", "Ca": 4, "PhongHoc": "Phòng trực tuyến", "ThoiGianBatDau": "2024-04-15 00:00:00", "ThoiGianKetThuc": "2024-04-21 00:00:00"}, {"LopHocPhan": "QT06.BT1", "TenLop": "Phân tích thiết kế thuật toán", "Thu": "2", "Ca": 4, "PhongHoc": "301-A8", "ThoiGianBatDau": "2024-03-04 00:00:00", "ThoiGianKetThuc": "2024-04-14 00:00:00"}, {"LopHocPhan": "QT09", "TenLop": "Tiếng Anh B2", "Thu": "4", "Ca": 2, "PhongHoc": "205-A8", "ThoiGianBatDau": "2024-01-01 00:00:00", "ThoiGianKetThuc": "2024-01-07 00:00:00"}, {"LopHocPhan": "QT09", "TenLop": "Tiếng Anh B2", "Thu": "4", "Ca": 2, "PhongHoc": "203-A8", "ThoiGianBatDau": "2024-01-08 00:00:00", "ThoiGianKetThuc": "2024-01-28 00:00:00"}, {"LopHocPhan": "QT09", "TenLop": "Tiếng Anh B2", "Thu": "6", "Ca": 2, "PhongHoc": "505-A8", "ThoiGianBatDau": "2024-01-08 00:00:00", "ThoiGianKetThuc": "2024-01-28 00:00:00"}, {"LopHocPhan": "QT09", "TenLop": "Tiếng Anh B2", "Thu": "4", "Ca": 2, "PhongHoc": "505-A8", "ThoiGianBatDau": "2024-02-19 00:00:00", "ThoiGianKetThuc": "2024-03-03 00:00:00"}, {"LopHocPhan": "QT09", "TenLop": "Tiếng Anh B2", "Thu": "6", "Ca": 2, "PhongHoc": "205-A8", "ThoiGianBatDau": "2024-02-19 00:00:00", "ThoiGianKetThuc": "2024-03-03 00:00:00"}, {"LopHocPhan": "QT09.BT1", "TenLop": "Tiếng Anh B2", "Thu": "4", "Ca": 2, "PhongHoc": "205-A8", "ThoiGianBatDau": "2024-03-04 00:00:00", "ThoiGianKetThuc": "2024-03-17 00:00:00"}, {"LopHocPhan": "QT09.BT1", "TenLop": "Tiếng Anh B2", "Thu": "6", "Ca": 2, "PhongHoc": "Phòng trực tuyến", "ThoiGianBatDau": "2024-03-04 00:00:00", "ThoiGianKetThuc": "2024-03-17 00:00:00"}, {"LopHocPhan": "QT09.BT1", "TenLop": "Tiếng Anh B2", "Thu": "4", "Ca": 2, "PhongHoc": "Phòng trực tuyến", "ThoiGianBatDau": "2024-03-18 00:00:00", "ThoiGianKetThuc": "2024-04-07 00:00:00"}, {"LopHocPhan": "QT09.BT1", "TenLop": "Tiếng Anh B2", "Thu": "6", "Ca": 2, "PhongHoc": "205-A8", "ThoiGianBatDau": "2024-04-08 00:00:00", "ThoiGianKetThuc": "2024-05-05 00:00:00"}, {"LopHocPhan": "QT11", "TenLop": "Tiếng Anh B2", "Thu": "3", "Ca": 1, "PhongHoc": "205-A8", "ThoiGianBatDau": "2024-01-01 00:00:00", "ThoiGianKetThuc": "2024-01-07 00:00:00"}, {"LopHocPhan": "QT11", "TenLop": "Tiếng Anh B2", "Thu": "3", "Ca": 1, "PhongHoc": "205-A8", "ThoiGianBatDau": "2024-01-08 00:00:00", "ThoiGianKetThuc": "2024-01-28 00:00:00"}, {"LopHocPhan": "QT11", "TenLop": "Tiếng Anh B2", "Thu": "6", "Ca": 1, "PhongHoc": "505-A8", "ThoiGianBatDau": "2024-01-08 00:00:00", "ThoiGianKetThuc": "2024-01-28 00:00:00"}, {"LopHocPhan": "QT11", "TenLop": "Tiếng Anh B2", "Thu": "3", "Ca": 1, "PhongHoc": "505-A8", "ThoiGianBatDau": "2024-02-19 00:00:00", "ThoiGianKetThuc": "2024-03-03 00:00:00"}, {"LopHocPhan": "QT11", "TenLop": "Tiếng Anh B2", "Thu": "6", "Ca": 1, "PhongHoc": "203-A8", "ThoiGianBatDau": "2024-02-19 00:00:00", "ThoiGianKetThuc": "2024-03-03 00:00:00"}, {"LopHocPhan": "QT11.BT1", "TenLop": "Tiếng Anh B2", "Thu": "3", "Ca": 1, "PhongHoc": "205-A8", "ThoiGianBatDau": "2024-03-04 00:00:00", "ThoiGianKetThuc": "2024-03-17 00:00:00"}, {"LopHocPhan": "QT11.BT1", "TenLop": "Tiếng Anh B2", "Thu": "6", "Ca": 1, "PhongHoc": "Phòng trực tuyến ", "ThoiGianBatDau": "2024-03-04 00:00:00", "ThoiGianKetThuc": "2024-03-17 00:00:00"}, {"LopHocPhan": "QT11.BT1", "TenLop": "Tiếng Anh B2", "Thu": "3", "Ca": 1, "PhongHoc": "Phòng trực tuyến", "ThoiGianBatDau": "2024-03-18 00:00:00", "ThoiGianKetThuc": "2024-04-07 00:00:00"}, {"LopHocPhan": "QT11.BT1", "TenLop": "Tiếng Anh B2", "Thu": "3", "Ca": 1, "PhongHoc": "205-A8", "ThoiGianBatDau": "2024-04-08 00:00:00", "ThoiGianKetThuc": "2024-05-05 00:00:00"}]
+[
+  {
+    "LopHocPhan": "Cơ học công trình-1-2-23(N01)",
+    "TenLop": "Cơ học công trình",
+    "Thu": "4",
+    "Ca": 2,
+    "PhongHoc": "301-A5",
+    "ThoiGianBatDau": "2024-03-11 00:00:00",
+    "ThoiGianKetThuc": "2024-05-26 00:00:00"
+  },
+  {
+    "LopHocPhan": "Cơ học công trình-1-2-23(N01.BT1)",
+    "TenLop": "Cơ học công trình",
+    "Thu": "6",
+    "Ca": 1,
+    "PhongHoc": "301-A5",
+    "ThoiGianBatDau": "2024-04-08 00:00:00",
+    "ThoiGianKetThuc": "2024-06-23 00:00:00"
+  },
+  {
+    "LopHocPhan": "Giáo dục thể chất F2-1-2-23(N116).TH",
+    "TenLop": "Giáo dục thể chất F2",
+    "Thu": "2",
+    "Ca": 1,
+    "PhongHoc": "Ngoài Trời 7",
+    "ThoiGianBatDau": "2024-03-11 00:00:00",
+    "ThoiGianKetThuc": "2024-05-26 00:00:00"
+  },
+  {
+    "LopHocPhan": "Kỹ năng mềm-1-2-23(N01.BT1)",
+    "TenLop": "Kỹ năng mềm",
+    "Thu": "3",
+    "Ca": 2,
+    "PhongHoc": "301-A5",
+    "ThoiGianBatDau": "2024-05-13 00:00:00",
+    "ThoiGianKetThuc": "2024-06-09 00:00:00"
+  },
+  {
+    "LopHocPhan": "Kỹ năng mềm-1-2-23(N01)",
+    "TenLop": "Kỹ năng mềm",
+    "Thu": "3",
+    "Ca": 2,
+    "PhongHoc": "301-A5",
+    "ThoiGianBatDau": "2024-03-11 00:00:00",
+    "ThoiGianKetThuc": "2024-05-12 00:00:00"
+  },
+  {
+    "LopHocPhan": "Thống kê và xử lý dữ liệu-1-2-23(N26)",
+    "TenLop": "Thống kê và xử lý dữ liệu",
+    "Thu": "3",
+    "Ca": 1,
+    "PhongHoc": "301-A5",
+    "ThoiGianBatDau": "2024-03-11 00:00:00",
+    "ThoiGianKetThuc": "2024-05-12 00:00:00"
+  },
+  {
+    "LopHocPhan": "Thống kê và xử lý dữ liệu-1-2-23(N26.BT1)",
+    "TenLop": "Thống kê và xử lý dữ liệu",
+    "Thu": "3",
+    "Ca": 1,
+    "PhongHoc": "301-A5",
+    "ThoiGianBatDau": "2024-05-13 00:00:00",
+    "ThoiGianKetThuc": "2024-06-09 00:00:00"
+  },
+  {
+    "LopHocPhan": "Trắc địa-1-2-23(N09.BT1)",
+    "TenLop": "Trắc địa",
+    "Thu": "5",
+    "Ca": 2,
+    "PhongHoc": "305A5",
+    "ThoiGianBatDau": "2024-04-22 00:00:00",
+    "ThoiGianKetThuc": "2024-06-02 00:00:00"
+  },
+  {
+    "LopHocPhan": "Trắc địa-1-2-23(N09)",
+    "TenLop": "Trắc địa",
+    "Thu": "5",
+    "Ca": 2,
+    "PhongHoc": "305A5",
+    "ThoiGianBatDau": "2024-03-11 00:00:00",
+    "ThoiGianKetThuc": "2024-04-21 00:00:00"
+  },
+  {
+    "LopHocPhan": "Triết học Mác- Lênin-1-2-23(N29.TL1)",
+    "TenLop": "Triết học Mác- Lênin",
+    "Thu": "5",
+    "Ca": 1,
+    "PhongHoc": "305A5",
+    "ThoiGianBatDau": "2024-04-15 00:00:00",
+    "ThoiGianKetThuc": "2024-06-23 00:00:00"
+  },
+  {
+    "LopHocPhan": "Triết học Mác- Lênin-1-2-23(N29)",
+    "TenLop": "Triết học Mác- Lênin",
+    "Thu": "2",
+    "Ca": 4,
+    "PhongHoc": "Online",
+    "ThoiGianBatDau": "2024-03-11 00:00:00",
+    "ThoiGianKetThuc": "2024-04-21 00:00:00"
+  },
+  {
+    "LopHocPhan": "Triết học Mác- Lênin-1-2-23(N29)",
+    "TenLop": "Triết học Mác- Lênin",
+    "Thu": "2",
+    "Ca": 4,
+    "PhongHoc": "201A5",
+    "ThoiGianBatDau": "2024-04-22 00:00:00",
+    "ThoiGianKetThuc": "2024-06-02 00:00:00"
+  },
+  {
+    "LopHocPhan": "Vật liệu xây dựng-1-2-23(N06)",
+    "TenLop": "Vật liệu xây dựng",
+    "Thu": "7",
+    "Ca": 3,
+    "PhongHoc": "305A5",
+    "ThoiGianBatDau": "2024-03-11 00:00:00",
+    "ThoiGianKetThuc": "2024-05-26 00:00:00"
+  },
+  {
+    "LopHocPhan": "Vật liệu xây dựng-1-2-23(N06.BT1)",
+    "TenLop": "Vật liệu xây dựng",
+    "Thu": "4",
+    "Ca": 2,
+    "PhongHoc": "301-A5",
+    "ThoiGianBatDau": "2024-05-27 00:00:00",
+    "ThoiGianKetThuc": "2024-06-16 00:00:00"
+  },
+  {
+    "LopHocPhan": "Vật liệu xây dựng-1-2-23(N06.BT1)",
+    "TenLop": "Vật liệu xây dựng",
+    "Thu": "7",
+    "Ca": 3,
+    "PhongHoc": "305A5",
+    "ThoiGianBatDau": "2024-05-27 00:00:00",
+    "ThoiGianKetThuc": "2024-06-16 00:00:00"
+  },
+  {
+    "LopHocPhan": "Vẽ kỹ thuật-1-2-23(N04)",
+    "TenLop": "Vẽ kỹ thuật",
+    "Thu": "4",
+    "Ca": 1,
+    "PhongHoc": "301-A5",
+    "ThoiGianBatDau": "2024-03-11 00:00:00",
+    "ThoiGianKetThuc": "2024-05-05 00:00:00"
+  },
+  {
+    "LopHocPhan": "Vẽ kỹ thuật-1-2-23(N04)",
+    "TenLop": "Vẽ kỹ thuật",
+    "Thu": "6",
+    "Ca": 2,
+    "PhongHoc": "301-A5",
+    "ThoiGianBatDau": "2024-03-11 00:00:00",
+    "ThoiGianKetThuc": "2024-05-05 00:00:00"
+  },
+  {
+    "LopHocPhan": "Vẽ kỹ thuật-1-2-23(N04)",
+    "TenLop": "Vẽ kỹ thuật",
+    "Thu": "4",
+    "Ca": 1,
+    "PhongHoc": "301-A5",
+    "ThoiGianBatDau": "2024-05-06 00:00:00",
+    "ThoiGianKetThuc": "2024-05-12 00:00:00"
+  },
+  {
+    "LopHocPhan": "Vẽ kỹ thuật-1-2-23(N04.BT1)",
+    "TenLop": "Vẽ kỹ thuật",
+    "Thu": "6",
+    "Ca": 2,
+    "PhongHoc": "301-A5",
+    "ThoiGianBatDau": "2024-05-06 00:00:00",
+    "ThoiGianKetThuc": "2024-05-12 00:00:00"
+  },
+  {
+    "LopHocPhan": "Vẽ kỹ thuật-1-2-23(N04.BT1)",
+    "TenLop": "Vẽ kỹ thuật",
+    "Thu": "4",
+    "Ca": 1,
+    "PhongHoc": "301-A5",
+    "ThoiGianBatDau": "2024-05-13 00:00:00",
+    "ThoiGianKetThuc": "2024-06-16 00:00:00"
+  },
+  {
+    "LopHocPhan": "Vẽ kỹ thuật-1-2-23(N04.BT1)",
+    "TenLop": "Vẽ kỹ thuật",
+    "Thu": "6",
+    "Ca": 2,
+    "PhongHoc": "301-A5",
+    "ThoiGianBatDau": "2024-05-13 00:00:00",
+    "ThoiGianKetThuc": "2024-06-16 00:00:00"
+  }
+]
